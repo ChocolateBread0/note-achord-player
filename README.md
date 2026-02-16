@@ -1,6 +1,6 @@
 A Python-based synthesizer that generates musical notes and chords from scratch using additive synthesis and physical modeling principles.
 
-##How it works
+#How it works
 
 The program accept a matrix of two element: note/achord, duration of the note. convert the note in a frequency using the law:
 
